@@ -69,8 +69,6 @@ Excel-Inventory-Tracking-Analysis/
 ├── README.md
 └── screenshots/
     ├── inventory_analysis.png
-    ├── stock_analysis.png
-    └── inventory_value.png
 ```
 
 Add screenshots only after capturing them from your actual workbook. If you use different filenames, update the names in this section.
